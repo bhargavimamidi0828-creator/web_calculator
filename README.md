@@ -4,7 +4,7 @@
 This project is a simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean and responsive interface.
 
 ## Project Screenshot
-![Web Calculator Screenshot](web-cal scr.png)
+![Web Calculator Screenshot](calculator.png)
 
 ## Features
 - Addition
@@ -17,7 +17,7 @@ This project is a simple web-based calculator built using HTML, CSS, and JavaScr
 - HTML
 - CSS
 - JavaScript
-- web-calculator
+  web-calculator
 ##project structure
 ├── index.html
 ├── style.css
