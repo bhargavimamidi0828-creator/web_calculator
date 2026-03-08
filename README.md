@@ -4,7 +4,7 @@
 This project is a simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean and responsive interface.
 
 ## Project Screenshot
-![Web Calculator Screenshot](calculator.png)
+![Web Calculator Screenshot](calculator.png.png)
 
 ## Features
 - Addition
